@@ -22,11 +22,11 @@ Happy coding !!
 
 ## Small Projects
 
-:globe_with_meridians: (https://unsplash-demo-ashish.herokuapp.com/)]
+:globe_with_meridians: (https://unsplash-demo-ashish.herokuapp.com)
 
-:globe_with_meridians: (https://minesweeper-demo-ashish.herokuapp.com/)]
+:globe_with_meridians: (https://minesweeper-demo-ashish.herokuapp.com)
 
-:globe_with_meridians: (https://weatherly-data.herokuapp.com/)]
+:globe_with_meridians: (https://weatherly-data.herokuapp.com)
 
-:globe_with_meridians: (https://bluestack-demo-from-ashish.herokuapp.com/)]
+:globe_with_meridians: (https://bluestack-demo-from-ashish.herokuapp.com)
 
