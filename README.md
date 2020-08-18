@@ -18,3 +18,15 @@ Gist About me
 I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer(Fr && Ba). I like front-end development with React/Next and Back-end development with Node, Electron, AWS lambda. I love trying out new technologies and update with modern tools helping our lives more easier.
 
 Happy coding !!
+
+
+## Small Projects
+
+:globe_with_meridians: (https://unsplash-demo-ashish.herokuapp.com/)]
+
+:globe_with_meridians: (https://minesweeper-demo-ashish.herokuapp.com/)]
+
+:globe_with_meridians: (https://weatherly-data.herokuapp.com/)]
+
+:globe_with_meridians: (https://bluestack-demo-from-ashish.herokuapp.com/)]
+
