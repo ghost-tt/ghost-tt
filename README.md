@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there It's me Ashish 👋
 
-<!--
-**ghost-tt/ghost-tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/ghost-tt/ghost-tt.svg)](http://hits.dwyl.com/ghost-tt/ghost-tt)
 
-Here are some ideas to get you started:
+Gist About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎤 I am a passionate Fullstack developer
+- 🛸 Learning everyday, currently learning to master dino.js, graphQL etc ...
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 💬 Connect me at [LinkedIN!](https://www.linkedin.com/in/ashish-sharma95/)
+- 📺 Share things I know on my Stackoverflow, I started recently [Take a Peek](https://stackoverflow.com/users/12646875/ashish-bhardwaj)
+- 📬 How to reach me: <a href="mailto:ashishbhardwaj727@gmail.com">Let's get in touch!</a>
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
+
+
+###
+
+I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer(Fr && Ba). I like front-end development with React/Next and Back-end development with Node, Electron, AWS lambda. I love trying out new technologies and update with modern tools helping our lives more easier.
+
+Happy coding !!
